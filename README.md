@@ -1,4 +1,4 @@
-# Aula 02 - Sistemas de Indormação
+# Aula 02 - Sistemas de Informação
 
 ## Definição de sistemas de informação; 
 
